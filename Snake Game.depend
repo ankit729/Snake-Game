@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1601573250 source:d:\desktop files\project\b. tech\my projects\snake game\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	<windows.h>
+
